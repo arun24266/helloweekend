@@ -1,1 +1,6 @@
 hello , am another file
+
+
+changes for search bar functionality
+
+in the second file
